@@ -1,0 +1,5 @@
+Taxa de câmbio comercial para venda: real (R$) / dólar americano (US$) - média
+Frequência: Mensal de 06/1994 até 25/01/2018
+Fonte: Banco Central do Brasil, Sistema Gerenciador de Séries Temporais (Bacen Outras/SGS)
+Unidade: R$
+Atualizado em: 25/01/2018
